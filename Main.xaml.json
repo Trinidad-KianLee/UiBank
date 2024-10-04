@@ -1,0 +1,81 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "LoanEmail",
+      "DisplayName": "LoanEmail",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "citrus@gmail.com",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "LoanAmount",
+      "DisplayName": "LoanAmount",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "15000",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "LoanTerm",
+      "DisplayName": "LoanTerm",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "5",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "LoanIncome",
+      "DisplayName": "LoanIncome",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "30000",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "LoanAge",
+      "DisplayName": "LoanAge",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "35",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "LoanGranted",
+      "DisplayName": "LoanGranted",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "No",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
